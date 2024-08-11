@@ -12,7 +12,6 @@ This is a free music streaming web application built with Next.js and powered by
 * Responsive and mobile-friendly design for a great user experience.
 * Minimalistic and intuitive user interface.
 ***
-![image](https://github.com/himanshu8443/hayasaka/assets/99420590/158bc035-463e-403b-a23a-db17b83ab7b0)
 ___
 ![image](https://github.com/himanshu8443/hayasaka/assets/99420590/864aec2b-8d60-4278-a475-9f7ee6ae7680)
 
@@ -22,12 +21,12 @@ ___
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/hayasaka.git
+    git clone https://github.com/ch20b063/Music_app_07_.git
     ```
 
 2. Install the required packages.
     ```sh
-    cd hayasaka
+    cd Music_app_07_
     ```
     ```sh
     npm install
